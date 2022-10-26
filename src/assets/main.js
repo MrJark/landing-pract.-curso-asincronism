@@ -1,5 +1,5 @@
 
-const API = 'https://youtube-v31.p.rapidapi.com/search?relatedToVideoId=7ghhRHRP6t4&part=id%2Csnippet&type=video&maxResults=5'
+const API = 'https://youtube-v31.p.rapidapi.com/search?relatedToVideoId=UCWbXRZ0pHoLW5tBiDBCTANQ&part=id%2Csnippet&type=video&maxResults=2'
 
 const content = null || document.getElementById('content');
 //con esta constante de content lo que hacemos es llamar a este js en la parte del html del id = content
